@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Affirmations</string>
+    <string name="affirmation1">Polisi</string>
+    <string name="affirmation2">Dokter</string>
+    <string name="affirmation3">Astronot</string>
+    <string name="affirmation4">Programmer</string>
+    <string name="affirmation5">Guru</string>
+    <string name="affirmation6">Presiden</string>
+    <string name="affirmation7">Tentara</string>
+    <string name="affirmation8">Suster</string>
+    <string name="affirmation9">Penyanyi</string>
+    <string name="affirmation10">Pelukis</string>
+</resources>
